@@ -100,3 +100,33 @@ line-height: 27px;
     margin-top: 45px;
 }
 /* Section End  */
+
+/* Section Start  */
+.Section_2{
+    width: 1440px;
+    margin: 0 auto;
+    padding: 175px 130px 200px 130px;
+}
+.Section_2_h2{
+   font-weight: 500px;
+   font-size: 48px;
+   color: #4D4D4D;
+   font-family: 'Poppins', sans-serif;  
+   margin-bottom: 54px; 
+   margin-left: 360px;
+}
+/* ცოტა გუგლის გამოყენება მომიწია ეს ვერ დავსვ სხვანაირად ვერანაირად  */
+.image-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+figcaption{
+    font-weight: 400px;
+    font-size: 24px;
+    font-family: 'Poppins', sans-serif;  
+    color: #535353;
+    margin-top: 32px;
+}
+/* section End  */
