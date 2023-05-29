@@ -34,3 +34,32 @@ li{
     padding: 8px 16px;     
 }
 /* Header End  */
+
+/* Article Start  */
+article{
+   padding: 322px 330px;
+    margin: 0 auto;
+    width: 1440px;
+}
+h1{
+    font-size: 48px;
+    font-weight: 500px;
+    color: #4D4D4D;
+    font-family: 'Poppins', sans-serif;
+}
+.article_P_1{
+    font-weight: 400px;
+    font-size: 20px;
+    font-family: 'Nerko One', cursive;
+    margin-top: 60px ;
+    margin-bottom: 52px ;
+    color: #656565;
+
+}
+.article_P_2{
+    font-weight: 400px;
+    font-size: 20px;
+    font-family: 'Nerko One', cursive;
+    color: #656565;
+}
+/* Article End  */
