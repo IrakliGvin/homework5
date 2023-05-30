@@ -130,3 +130,34 @@ figcaption{
     margin-top: 32px;
 }
 /* section End  */
+
+/* Footer start */
+footer{
+    width: 1440px;
+    background-color: #2a9d8f;
+    margin: 0 auto;
+    padding: 90px 0px 198px 130px;
+}
+.footer_logo{
+    vertical-align: top;
+}
+.footer_main_div{
+    margin-left: 634px;
+}
+.footer_div_1{
+   margin-left: 42px;
+}
+h4{
+    margin-bottom: 21px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500px;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+.footer_li{
+    display: block;
+    margin-top: 8px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400px;
+    font-size: 18px;
+}
